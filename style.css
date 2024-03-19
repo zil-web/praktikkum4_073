@@ -1,0 +1,49 @@
+body{
+    background-color: bisque;
+    background-repeat: no-repeat;
+}
+
+#judul {
+    font-family: Arial, Helvetica, sans-serif;
+    color: blue;
+    text-align: center;
+    margin: 0;
+    font-size: 100pt;
+    background-color: black;
+}
+
+table{
+    display: inline-block;
+}
+
+#jdl{
+    text-align: center;
+}
+
+#member{
+    width: 100px;
+    display: inline-block;
+}
+
+#mnama{
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    text-align: center;
+    display:inline-block;
+    cursor: pointer;
+}
+
+#mback{
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    text-align: center;
+    display:inline-block;
+    cursor: pointer;
+}
+
+.left-div {
+    width: 100px;
+    display: inline-block;
+}
